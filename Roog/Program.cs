@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Roog
 {
@@ -6,7 +6,8 @@ namespace Roog
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");// This is fun yay
+            Console.WriteLine("G18M6734");// This is fun yay
+            
         }
     }
 }
